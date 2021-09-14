@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Asignacion_calculadora_IMC</string>
+    <string name="estatura">Estatura en m</string>
+    <string name="peso">Peso en kg</string>
+    <string name="calcular">Calcular IMC</string>
+    <string name="result">Resultado</string>
+    <string name="estado">Estado</string>
+
+
+
+</resources>
